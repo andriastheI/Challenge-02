@@ -14,14 +14,14 @@ This project demonstrates:
 
 ## Project Structure
 
-.
+```
 ├── src/
 │   ├── challenge02.py        # Main program logic and user interface
 │   └── county.py             # County class definition
 ├── doc/
 │   └── MontanaCounties.csv   # CSV file containing county data
 └── README.md                 # Project documentation
-
+```
 ---
 
 ## How the Program Works
@@ -49,7 +49,9 @@ This project demonstrates:
 3. Navigate to the `src/` directory.
 4. Run the program from the terminal:
 
-python src/challenge02.py
+```
+python src/challenge_02.py
+```
 
 ---
 
