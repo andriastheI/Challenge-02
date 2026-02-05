@@ -1,0 +1,39 @@
+# =========================
+# Python bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# IDE / Editor files
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# CSV backups or generated files
+# (keep your original MontanaCounties.csv tracked)
+# =========================
+*.bak
